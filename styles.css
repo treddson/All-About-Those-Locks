@@ -1,0 +1,38 @@
+.center {
+	margin: auto;
+	text-align: center;
+	width: 50%;
+	font-family: 'Rock Salt';
+	padding: 2px 15px;
+	color: #ff91b4;
+	font-size: 2em;
+
+}
+body {
+	background-color: #deff6b;
+	border: 3px solid color: black;
+	padding-left: 60px;
+	padding-right: 60px;
+
+}
+.firstPar {
+	font-family: 'Fira Mono';
+	border-bottom: 1px solid;
+	border-color: #ff91b4;
+}
+.address {
+	font-family: 'Fira Mono';
+	font-size: .8em;
+}
+a {
+	text-decoration: none;
+	color: #ff91b4;
+}
+.mySlides {
+	width: 800px;
+	height: 500px;
+	margin: 0 auto;
+	display: block;
+	border-radius: 8px;
+	box-shadow: 6px 6px 3px #ff91b4;
+}
